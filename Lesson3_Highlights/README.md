@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 2, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Hunter Bowan)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment allowed us to understand version control and an application we will be using, GIT)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (What version control is and why we use it.
+2. What GIT is and how it is an effective version control for multiple users at once.
+3. The commands associated with GIT and its powerful capabilities.
